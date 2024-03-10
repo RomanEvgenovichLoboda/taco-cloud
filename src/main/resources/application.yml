@@ -1,0 +1,13 @@
+spring:
+  thymeleaf:
+    cache: false
+
+  datasource:
+    generate-unique-name: false
+    name: tacocloud
+
+
+#  jpa:
+#    defer-datasource-initialization: true
+#spring.datasource.generate-unique-name=false
+#spring.datasource.name=tacocloud
